@@ -42,7 +42,7 @@
       - O caminho deve conter exatamente um elemento de cada linha do triângulo.
       - A primeira linha de entrada será a altura do triângulo, seguida pelos elementos em cada linha.
      
-      [Exemplo](about:blank):
+      [Exemplo](https://github.com/LuisVCSilva/APC-1_2023.2/blob/master/funcoes_arrays_pt2/triangulo.png):
 
 - Entrada:
 
