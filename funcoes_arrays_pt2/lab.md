@@ -42,7 +42,7 @@
       - O caminho deve conter exatamente um elemento de cada linha do triângulo.
       - A primeira linha de entrada será a altura do triângulo, seguida pelos elementos em cada linha.
      
-      [Exemplo]:
+      [Exemplo](about:blank):
 
 - Entrada:
 
