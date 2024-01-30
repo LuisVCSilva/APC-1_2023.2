@@ -102,11 +102,17 @@ Para maximizar o lucro, você precisa escolher o dia para comprar a ação (com 
 - Exemplo 1:
 - Entrada:
 > 1 2 3
+
 >4 5 6
+
 > 7 8 9
+
 - Saída:
+
 > 7 4 1
+
 >8 5 2
+
 > 9 6 3
 
 ### Questão 5
