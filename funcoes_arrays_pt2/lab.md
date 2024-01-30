@@ -42,15 +42,15 @@
       - O caminho deve conter exatamente um elemento de cada linha do triângulo.
       - A primeira linha de entrada será a altura do triângulo, seguida pelos elementos em cada linha.
      
-      Exemplo:
+      [Exemplo]:
 
 - Entrada:
 
-   4
-   3
-6 4
-5 2 7
-9 1 8 6
+ > 4
+ > 3
+ > 6 4
+ > 5 2 7
+ > 9 1 8 6
 - Saída:
 
    10
